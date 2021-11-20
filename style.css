@@ -73,11 +73,28 @@ padding: 0;
    
 }
 .box1{
-    height: 50vh;
-    width: 40vw;
-  background-color: crimson;
+    height: 60vh;
+    width: 21vw;
+  /* background-color: crimson; */
 }
-h3{
+h2{
     /* text-align: center; */
-    margin-left: 200px;
+    margin-left: 60px;
+}
+.image4{
+    position: absolute;
+    right: 300px;
+    top: 145px;
+}
+.image5{
+    position: absolute;
+    top: 145px;
+    right: 270px;
+}
+.image6{
+    position: absolute;
+    top: 145px;
+    right: 230px;
+    height: 30px;
+    width: 40px;
 }
